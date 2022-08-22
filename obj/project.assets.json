@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cosmi\\Repositorys\\Training\\RPS\\RPS.csproj",
+      "projectUniqueName": "C:\\Users\\cosmi\\Repositorys\\Training\\GitRepos\\RPS\\RPS.csproj",
       "projectName": "RPS",
-      "projectPath": "C:\\Users\\cosmi\\Repositorys\\Training\\RPS\\RPS.csproj",
+      "projectPath": "C:\\Users\\cosmi\\Repositorys\\Training\\GitRepos\\RPS\\RPS.csproj",
       "packagesPath": "C:\\Users\\cosmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cosmi\\Repositorys\\Training\\RPS\\obj\\",
+      "outputPath": "C:\\Users\\cosmi\\Repositorys\\Training\\GitRepos\\RPS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cosmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
